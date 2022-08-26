@@ -1,2 +1,2 @@
 # IMOLA
-IMOLA chair + textures
+IMOLA chair + textures brown leather
